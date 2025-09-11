@@ -1,5 +1,7 @@
 # Alex's Apache Iceberg Links
 
+[Exchange Contact Info with Alex](https://dot.cards/alexmerced)
+
 ## Books
 - [FREE - Apache Iceberg: The Definitive Guide](https://drmevn.fyi/linkpageiceberg)
 - [FREE - Apache Polaris: The Definitive Guide](https://drmevn.fyi/linkpagepolaris)
