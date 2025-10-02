@@ -1,6 +1,23 @@
-# Alex's Apache Iceberg Links
+# Alex's Data Lakehouse Links
 
 [Exchange Contact Info with Alex](https://dot.cards/alexmerced)
+
+# Table of Contents
+
+- [Written Content](#written-content)
+  - [Books](#books)
+  - [Hands-on Lakehouse Tutorials](#hands-on-lakehouse-tutorials)
+  - [Blogs](#blogs)
+- [Community](#community)
+  - [Slack Communities](#slack-communities)
+  - [Meetup Groups/Luma Calendars for Lakehouse Events](#meetup-groupsluma-calendars-for-lakehouse-events)
+    - [International](#international)
+    - [National (USA)](#national-usa)
+    - [State](#state)
+- [Other Resources](#other-resources)
+
+
+# Written Content
 
 ## Books
 - [FREE - Apache Iceberg: The Definitive Guide](https://drmevn.fyi/linkpageiceberg)
@@ -17,7 +34,17 @@
 - [DatalakehouseHub.com Blog](https://datalakehousehub.com/blog/)
 - [IcebergLakehouse.com Blog](https://iceberglakehouse.com/posts/)
 
-# Meetup Groups/Luma Calendars for Lakehouse Events
+# Community
+
+## Slack Communities
+- [The Data Lakehouse Hub Slack](https://join.slack.com/t/thedatalakehousehub/shared_invite/zt-274yc8sza-mI2zhCW8LGkOh1uxuf8T5Q)
+- [Data Events Organizing Slack](https://join.slack.com/t/data-events/shared_invite/zt-38vgrooy9-U9ral_gr3NAz_Siih1QwmQ)
+- [Dremio Developer Community](https://developer.dremio.com)
+- [Apache Iceberg Community](https://iceberg.apache.org/community/)
+- [Apache Polaris Community](https://polaris.apache.org/)
+- [Apache Arrow Community](https://arrow.apache.org/community/)
+
+## Meetup Groups/Luma Calendars for Lakehouse Events
 
 #### International
 - [International Data Lakehouse Meetups](https://lu.ma/datalakehousemeetupsinternational)
@@ -27,6 +54,9 @@
 - [North American Open Data Lakehouse Linkups](https://www.meetup.com/north-american-open-data-lakehouse-linkups/)
 - [North American Community Run Apache Iceberg Meetups](https://www.meetup.com/na-apache-iceberg-meetups/)
 - [Lakehouse Linkups Luma](https://lu.ma/Lakehouselinkups)
+- [Data Lakehouse Hub Events](https://luma.com/DataLakehouseHub)
+- [Open Data Pioneering Meetup]([https://luma.com/calendar/manage/cal-qux1A0LHu2iefNH](https://luma.com/open-data-pioneering)
+- 
 
 #### State
 - [NYC Data Lakehouse Events](https://lu.ma/NYCDataLakehouse)
