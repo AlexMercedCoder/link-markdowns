@@ -55,8 +55,7 @@
 - [North American Community Run Apache Iceberg Meetups](https://www.meetup.com/na-apache-iceberg-meetups/)
 - [Lakehouse Linkups Luma](https://lu.ma/Lakehouselinkups)
 - [Data Lakehouse Hub Events](https://luma.com/DataLakehouseHub)
-- [Open Data Pioneering Meetup]([https://luma.com/calendar/manage/cal-qux1A0LHu2iefNH](https://luma.com/open-data-pioneering)
-- 
+- [Open Data Pioneering Meetup](https://luma.com/open-data-pioneering)
 
 #### State
 - [NYC Data Lakehouse Events](https://lu.ma/NYCDataLakehouse)
