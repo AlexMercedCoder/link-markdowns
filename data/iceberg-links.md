@@ -49,6 +49,9 @@
 #### International
 - [International Data Lakehouse Meetups](https://lu.ma/datalakehousemeetupsinternational)
 
+#### Virtual
+- [DIAL Talks (Data, Iceberg, AI, Lakehouse)](https://luma.com/DIALTALKS)
+
 #### National (USA)
 - [Open Data Lakehouse Meetups - Global](https://www.meetup.com/iceberg-data-lakehouse-meetups/)
 - [North American Open Data Lakehouse Linkups](https://www.meetup.com/north-american-open-data-lakehouse-linkups/)
