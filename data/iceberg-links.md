@@ -26,6 +26,7 @@
 - [Architecting an Apache Iceberg Lakehouse](https://hubs.la/Q03GfY4f0)
 
 ## Hands-on Lakehouse Tutorials
+- [Dremio Cloud Video Walkthrough](https://www.youtube.com/playlist?list=PL-gIUf9e9CCvY0bcRBGu2SzFFR-yJGIB6)
 - [Hands-on Intro to Iceberg on your Lakehouse](https://drmevn.fyi/linkpagetut)
 - [Dremio University (Earn Badges on Iceberg, MCP and more)](https://drmevn.fyi/linkpageuni)
 
