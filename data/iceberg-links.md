@@ -2,6 +2,8 @@
 
 [Exchange Contact Info with Alex](https://dot.cards/alexmerced)
 
+[Raffle for Free Copy of "Architecting an Apache Iceberg Lakehouse"](https://docs.google.com/forms/u/0/d/e/1FAIpQLSc87eIYMSdCXZkbrIP1fo687ZxvNo-WFPSF_aUDfk3tYyzERw/viewform)
+
 # Table of Contents
 
 - [Written Content](#written-content)
