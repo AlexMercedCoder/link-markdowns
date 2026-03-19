@@ -23,7 +23,7 @@
 - [FREE - Apache Iceberg: The Definitive Guide](https://drmevn.fyi/linkpageiceberg)
 - [FREE - Apache Polaris: The Definitive Guide](https://drmevn.fyi/linkpagepolaris)
 - [FREE - The Apache Iceberg Digest: Vol1](https://www.puppygraph.com/ebooks/apache-iceberg-digest-vol-1)
-- [Architecting an Apache Iceberg Lakehouse](https://hubs.la/Q03GfY4f0)
+- [Architecting an Apache Iceberg Lakehouse](https://hubs.la/Q03GfY4f0) (Discount Code: TBD)
 - [The 2026 Guide to Lakehouses, Apache Iceberg and Agentic AI: A Hands-On Practitioner's Guide to Modern Data Architecture, Open Table Formats, and Intelligent Analytics](https://www.amazon.com/Lakehouses-Apache-Iceberg-Agentic-Hands-ebook/dp/B0GQL4QNRT/ref=sr_1_13?crid=38N9JHI5YPXO6&dib=eyJ2IjoiMSJ9.MrNhOzgghEmdSejGTxdAjTBCedkUAIYo6K-D-qDHZje8lycycvZpEFOBEIDXWodpQjLj4do_-mGq-o3pr3j8LBmZaMN2q5x0iFgMBnmz34RK-0N-AiCiypuLaCj6vo-irJfHy-SoHuEY4Uai6JLTnUwMWdLSfmAdJgfojCPhbBkVnfQJo33W9azBiybNT3lG3nYXBg53umMSp2RzF7CNO4sPzmMcsALY982a8iDVvBs.9J9pX7mbOQImPR7LvaZ06LxPI26J-hH4x1j4FRo0GoA&dib_tag=se&keywords=alex+merced&qid=1772395857&sprefix=alex+merce%2Caps%2C155&sr=8-13)
 - [The Book on Using Apache Iceberg with Python](https://www.amazon.com/Book-Using-Apache-Iceberg-Python/dp/B0GNZ454FF/ref=sr_1_1?crid=38N9JHI5YPXO6&dib=eyJ2IjoiMSJ9.MrNhOzgghEmdSejGTxdAjTBCedkUAIYo6K-D-qDHZje8lycycvZpEFOBEIDXWodpQjLj4do_-mGq-o3pr3j8LBmZaMN2q5x0iFgMBnmz34RK-0N-AiCiypuLaCj6vo-irJfHy-SoHuEY4Uai6JLTnUwMWdLSfmAdJgfojCPhbBkVnfQJo33W9azBiybNT3lG3nYXBg53umMSp2RzF7CNO4sPzmMcsALY982a8iDVvBs.9J9pX7mbOQImPR7LvaZ06LxPI26J-hH4x1j4FRo0GoA&dib_tag=se&keywords=alex+merced&qid=1772395857&sprefix=alex+merce%2Caps%2C155&sr=8-1)
 - [The Book on Agentic Analytics](https://www.amazon.com/Book-Agentic-Analytics-Architecture-Autonomous/dp/B0GQN4Q41Y/ref=sr_1_5?crid=38N9JHI5YPXO6&dib=eyJ2IjoiMSJ9.MrNhOzgghEmdSejGTxdAjTBCedkUAIYo6K-D-qDHZje8lycycvZpEFOBEIDXWodpQjLj4do_-mGq-o3pr3j8LBmZaMN2q5x0iFgMBnmz34RK-0N-AiCiypuLaCj6vo-irJfHy-SoHuEY4Uai6JLTnUwMWdLSfmAdJgfojCPhbBkVnfQJo33W9azBiybNT3lG3nYXBg53umMSp2RzF7CNO4sPzmMcsALY982a8iDVvBs.9J9pX7mbOQImPR7LvaZ06LxPI26J-hH4x1j4FRo0GoA&dib_tag=se&keywords=alex+merced&qid=1772395857&sprefix=alex+merce%2Caps%2C155&sr=8-5)
@@ -43,7 +43,7 @@
 ## Slack Communities
 - [The Data Lakehouse Hub Slack](https://join.slack.com/t/thedatalakehousehub/shared_invite/zt-274yc8sza-mI2zhCW8LGkOh1uxuf8T5Q)
 - [Data Events Organizing Slack](https://join.slack.com/t/data-events/shared_invite/zt-38vgrooy9-U9ral_gr3NAz_Siih1QwmQ)
-- [Dremio Developer Community](https://developer.dremio.com)
+- [Dremio Developer Community](https://developer.dremio.com) - [Dremio Dev Slack](https://dremio-dev.slack.com/join/shared_invite/zt-3c8zajmhw-b6KfiD343kuIopaaJ1bZ6w#/shared-invite/email)
 - [Apache Iceberg Community](https://iceberg.apache.org/community/)
 - [Apache Polaris Community](https://polaris.apache.org/)
 - [Apache Arrow Community](https://arrow.apache.org/community/)
