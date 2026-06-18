@@ -2,8 +2,6 @@
 
 [Exchange Contact Info with Alex](https://dot.cards/alexmerced)
 
-[Raffle for Free Copy of "Architecting an Apache Iceberg Lakehouse"](https://docs.google.com/forms/u/0/d/e/1FAIpQLSc87eIYMSdCXZkbrIP1fo687ZxvNo-WFPSF_aUDfk3tYyzERw/viewform)
-
 [Dremio Free 30 Day Trial (no CC, no infra, $400 free credits)](https://www.dremio.com/get-started/?utm_source=github-link-page&utm_medium=influencer&utm_campaign=iceberg&utm_term=github-link-page-03-20-2026&utm_content=alexmerced)
 
 [Join the Dremio Dev Community Slack Channel](https://developer.dremio.com?utm_source=link_page&utm_medium=influencer&utm_campaign=iceberg&utm_term=qr-link-list-04-07-2026&utm_content=alexmerced)
